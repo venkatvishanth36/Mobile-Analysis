@@ -19,7 +19,8 @@ Microsoft Power BI - [mobile analysis visual.pdf](https://github.com/venkatvisha
 
 MySQL requirements given:
 
-Check Mobile Features And Price List 
+Check Mobile Features And Price List
+
 Find Out The Price Of 5 Most Expensive Phones 
 Find Out The Price Of 5 Most Cheapest Phones
 List Of Top 5 Samsung Phones with price and All features

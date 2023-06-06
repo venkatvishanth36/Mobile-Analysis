@@ -13,7 +13,7 @@ After using my SQL imported the data from MySQL to Microsoft Power BI, In Micros
 I attach all the resources in this Git Hub, then the power bi visualization I submitted in PDF format because now I am not having office access to give an interactive dashboard like Tableau.
 
 
-Project video - Mobile Analysis 2023 compress.mp4
+Project video - [Mobile Analysis 2023 compress.mp4](https://github.com/venkatvishanth36/Mobile-Analysis/blob/main/Mobile%20Analysis%202023%20compress.mp4)
 
 Microsoft Power BI - mobile analysis visual.pdf
 

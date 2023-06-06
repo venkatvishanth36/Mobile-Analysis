@@ -17,7 +17,7 @@ Project video - [Mobile Analysis 2023 compress.mp4](https://github.com/venkatvis
 
 Microsoft Power BI - [mobile analysis visual.pdf](https://github.com/venkatvishanth36/Mobile-Analysis/blob/main/mobile%20analysis%20visual.pdf)
 
-MySQL requirements given
+MySQL requirements given:
 
 Check Mobile Features And Price List 
 Find Out The Price Of 5 Most Expensive Phones 

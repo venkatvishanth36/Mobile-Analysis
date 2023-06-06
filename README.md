@@ -15,7 +15,7 @@ I attach all the resources in this Git Hub, then the power bi visualization I su
 
 Project video - [Mobile Analysis 2023 compress.mp4](https://github.com/venkatvishanth36/Mobile-Analysis/blob/main/Mobile%20Analysis%202023%20compress.mp4)
 
-Microsoft Power BI - mobile analysis visual.pdf
+Microsoft Power BI - [mobile analysis visual.pdf](https://github.com/venkatvishanth36/Mobile-Analysis/blob/main/mobile%20analysis%20visual.pdf)
 
 MySQL requirements given
 

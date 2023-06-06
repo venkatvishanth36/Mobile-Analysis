@@ -21,13 +21,22 @@ MySQL requirements given:
 
 Check Mobile Features And Price List
 
-Find Out The Price Of 5 Most Expensive Phones 
+Find Out The Price Of 5 Most Expensive Phones
+
 Find Out The Price Of 5 Most Cheapest Phones
+
 List Of Top 5 Samsung Phones with price and All features
+
 Must Have Android Phones List Them Top 5 High price Android Phones
+
 Must Have Android Phones List Them Top 5 Low price Android Phones
+
 Must Have IOS Phones List Them Top 5 High price Android Phones
+
 Must Have IOS Phones List Them Top 5 Low price Android Phones
+
 write a query which phone support 5g
+
 Top 5 phone with 5g support
+
 Total Price Of All Mobile Is to Be Find With Brand Name
